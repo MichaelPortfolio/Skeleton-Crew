@@ -1,0 +1,3 @@
+Skeleton-Crew\Skeleton Crew\Setup1\Setup1\Express\DVD-5\DiskImages\DISK1\Setup1.msi
+
+This will install to the desktop
